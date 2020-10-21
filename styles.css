@@ -1,0 +1,26 @@
+img{
+    width:300px;
+}
+h1 {color:blue;
+}
+body{
+    background-image: url("https://i.pinimg.com/474x/be/cb/ce/becbce6336d292dc68dbffa2df7af55a.jpg");
+ background-color: #cccccc;
+    text-align:center;}
+img{
+    border:dashed;
+}
+p{
+    text-align:center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p{font-family: 'Bowlby One SC', cursive;
+}
+h1{
+    text-align:center;
+}
